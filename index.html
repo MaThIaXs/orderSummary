@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+	<link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+	
+	<!--Tailwind CSS-->
+	<link rel="stylesheet" href="./dist/output.css">
+
+	<title>Frontend Mentor | Order summary card</title>
+</head>
+<body class="bg-paleBlue font-redHatDisplay min-h-screen flex flex-col items-center justify-center p-6 bg-pattern-background-mobile sm:bg-pattern-background-desktop bg-no-repeat bg-contain">
+	<main class="bg-white max-w-sm rounded-3xl"><!--Container-->
+		<div><!--Container Image-->
+			<img class="rounded-t-3xl" src="./images/illustration-hero.svg" alt="illustration hero">
+		</div>
+		<div class="text-center grid px-6 pb-8 mt-7 gap-7"><!--Container Content-->
+			<h1 class="text-darkBlue text-2xl font-black">Order Summary</h1>
+			<p class="text-desaturatedBlue text-base font-medium">You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!</p>
+			<div class="w-full flex items-center bg-paleBlue bg-opacity-20 justify-between p-4 rounded-xl">
+				<div class="flex items-center gap-4">
+					<img src="../images/icon-music.svg" alt="icon music">
+					<div class="flex flex-col text-left">
+						<span class="text-darkBlue font-black text-sm">Annual Plan</span>
+						<span class="text-desaturatedBlue font-medium text-sm">$59.99/year</span>
+					</div>
+				</div>
+				<a href="#" class="text-brightBlue font-bold text-sm underline hover:no-underline hover:text-opacity-70">Change</a>
+			</div>
+
+			<button class="bg-brightBlue text-white font-bold rounded-xl py-4 drop-shadow-2xl hover:bg-opacity-70">Proceed to Payment</button>
+			<button class="bg-none text-desaturatedBlue font-black text-sm hover:text-darkBlue">Cancel Order</button>
+		</div>
+	</main>
+	<footer class="absolute bottom-0">
+		<div class="text-sm font-bold text-darkBlue">
+			Challenge by <a class="text-desaturatedBlue hover:text-darkBlue" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+			Coded by <a class="text-desaturatedBlue hover:text-darkBlue" href="https://github.com/MaThIaXs">Matheus Ferraz</a>.
+		</div>
+	</footer>
+</body>
+</html>
