@@ -33,8 +33,8 @@ Mobile<br>
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/order-summary-using-tailwind-css-9MxL2C_6yl)
+- Live Site URL: [Live Site](https://mathiaxs.github.io/orderSummary/)
 
 ## My process
 
