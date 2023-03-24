@@ -26,8 +26,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop
+![Screenshot_1](https://user-images.githubusercontent.com/113397248/227605120-75507321-40c0-4063-a8c6-4f23719fc0cb.jpg)
 
-Mobile
+Mobile<br>
+![Screenshot_2](https://user-images.githubusercontent.com/113397248/227605168-9176fc19-be6e-480d-90fe-f43ea8301ca1.jpg)
 
 ### Links
 
