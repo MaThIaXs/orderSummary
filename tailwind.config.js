@@ -17,8 +17,8 @@ module.exports = {
         'darkBlue': 'hsl(223, 47%, 23%)'
       },
       backgroundImage: {
-        'pattern-background-desktop': "url('../images/pattern-background-desktop.svg')",
-        'pattern-background-mobile': "url('../images/pattern-background-mobile.svg')"
+        'pattern-background-desktop': "url('./images/pattern-background-desktop.svg')",
+        'pattern-background-mobile': "url('./images/pattern-background-mobile.svg')"
       },
     },
   },
